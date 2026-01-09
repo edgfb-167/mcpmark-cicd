@@ -1,7 +1,5 @@
-// This file has linting errors
-const unusedVar = "I'm unused";
-console.log("Hello, world!");
 function myFunc() {
-  return "no semicolon"
+  return 'fixed string';
 }
-const str = "double quotes instead of single";
+
+const str = 'single quotes';
